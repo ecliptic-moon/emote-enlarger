@@ -42,7 +42,7 @@ client.on('message', msg => {
             })
             .catch(() => {
                 msg.channel.send('Timer up')
-              });
+            });
         });
     }
 
