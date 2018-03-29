@@ -1,0 +1,20 @@
+{
+  "name": "emote-enlarger",
+  "version": "0.0.0",
+  "description": "Posts larger versions of emotes in your Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emote",
+    "enlarge",
+    "bot"
+  ],
+  "author": "Lunar#2955",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
